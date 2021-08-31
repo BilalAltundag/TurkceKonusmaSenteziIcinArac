@@ -1,0 +1,13 @@
+Bu "Proje" klasörünü bilgisayarınızın masaüstünde bulunması lazımdır.
+
+Kayitlar : Bu dosyada "prompt_bilal.py" programında kaydettiğiniz sesler buraya kaydedilir.
+
+Kullanılacak_Kitaplar : Bu dosyaya Türkçe konuşma sentezi için kullanıcağınız kitapları yükleyiniz.
+
+Okunacak_Cumleler : Bu dosyaya Türkçe konuşma sentezi programını çalıştırıp sonlandığında dildeki çeşitliliği büyük oranda kapsayan cümleleri kaydeder.
+
+butun_kelimeler : Bu dosyada türkçede bulunan kelimeler listesi bulunur.
+
+prompt_bilal : Bu program "Okunacak_Cumleler" klasöründeki cümleleri okuyarak sesinizi kaydetmeye yarar.
+
+Turkce_konusma_sentezi : Bu program "Kullanilacak_Kitaplar" klasöründeki yüklediğiniz kitapları kullanarak size dildeki çeşitliliği büyük oranda kapsayan cümleleri "Okunacak_CUmlelere" kaydeder.
