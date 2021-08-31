@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  2 13:30:18 2020
-
-@author: Acer
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 27 15:52:34 2020
-
-@author: Acer
-"""
 import os
 import sounddevice as sd
 from scipy.io.wavfile import write
